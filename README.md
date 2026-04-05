@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  real-world projects and problem solving<br><br>👯 I’m looking to collaborate on  full stack projects<br><br>🤝 <br><br>🌱 I’m currently learning  <br>Data Structures & Algorithms (DSA), MERN stack, and improving problem-solving skills  <br><br><br>⚡ Fun fact  <br>I started coding recently and love turning simple ideas into projects 🚀  
+🔭 I’m currently working on  real-world projects and problem solving<br><br>👯 I’m looking to collaborate on  full stack projects<br><br>🌱 I’m currently learning  <br>Data Structures & Algorithms (DSA), MERN stack, and improving problem-solving skills  <br><br><br>⚡ Fun fact  <br>I started coding recently and love turning simple ideas into projects 🚀  
 
 
 ## 🌐 Socials:
